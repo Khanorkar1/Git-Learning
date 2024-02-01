@@ -1,3 +1,0 @@
-This sample file to check connection.
-
-Modified some change here!!
